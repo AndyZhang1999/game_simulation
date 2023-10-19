@@ -1,1 +1,3 @@
-# 明日方舟寻访模拟
+# D-day 
+
+This is a simulation for the game D-day. It's still on-going...
